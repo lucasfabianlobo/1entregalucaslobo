@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&family=Orbitron&display=swap");
+
+* {
+  margin: 10px;
+}
+
+.logo {
+  text-align: center;
+  bottom: auto;
+  padding: 10px;
+  background-color: rgb(172, 98, 189);
+}
+
+header {
+  background-color: white;
+  position: sticky;
+  top: 0;
+}
+
+nav {
+  flex-direction: column;
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+main {
+  background-color: rgba(248, 238, 235, 0.264);
+  margin: 150px;
+}
+
+hr {
+  border-top: 2px solid rgb(0, 255, 64) !important;
+}
+
+.div-cotizar {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+li {
+  box-sizing: border-box;
+  background-color: rgb(172, 98, 189);
+  padding: 30px;
+}
+
+footer {
+  background-color: rgb(172, 98, 189);
+  font-weight: 700;
+  padding: 10px;
+  text-align: center;
+  position: sticky;
+}
